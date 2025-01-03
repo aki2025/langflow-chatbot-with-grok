@@ -1,7 +1,7 @@
-# langflow-chatbot-with-grok
+# langflow-chatbot-with-groq
 Langflow is a low-code tool for developers that makes it easier to build powerful AI agents and workflows that can use any API, model, or database.
 
-langflow chatbot with grok- this repo provide a basic langchain - langflow chatbot work with grok LLM. this code help to understad a simple chatbot promt flow using langflow. Prompts serve as the inputs to a large language model (LLM), acting as the interface between human instructions and computational tasks. By submitting natural language requests in a prompt to an LLM, you can obtain answers, generate text, and solve problems.
+langflow chatbot with grok- this repo provide a basic langchain - langflow chatbot work with groq LLM. this code help to understad a simple chatbot promt flow using langflow. Prompts serve as the inputs to a large language model (LLM), acting as the interface between human instructions and computational tasks. By submitting natural language requests in a prompt to an LLM, you can obtain answers, generate text, and solve problems.
 
 API- Generate the code to integrate your flow into an external application. API calls require an Application Token to authenticate your request.
 
@@ -38,6 +38,5 @@ Rapid Prototyping:
 Create and test LLM-powered ideas without the need for extensive coding.
 Educational Tools:
 Simplify the learning process for those new to LangChain or LLM-based development.
-
 
 Refeerne -https://docs.langflow.org/
