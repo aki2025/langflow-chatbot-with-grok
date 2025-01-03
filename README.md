@@ -29,14 +29,9 @@ Select Basic Prompting.
 The Basic Prompting flow is created.
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/b020a84d-d21d-4eee-8148-3bf792ea3a8a" />
 
-Common Use Cases
-Building Chatbots:
-Quickly design conversational agents by connecting an LLM with tools and memory modules.
-Data Processing:
-Automate workflows like summarization, data extraction, and classification.
-Rapid Prototyping:
-Create and test LLM-powered ideas without the need for extensive coding.
-Educational Tools:
-Simplify the learning process for those new to LangChain or LLM-based development.
+Here’s a table summarizing chatbot use cases across industries:		
+		
+
+![image](https://github.com/user-attachments/assets/5c98e558-9b02-4f35-b30f-1fc988dee1db)
 
 Refeerne -https://docs.langflow.org/
